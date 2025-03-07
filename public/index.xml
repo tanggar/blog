@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Code Brew</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Code Brew</description>
+    <generator>Hugo -- 0.136.4</generator>
+    <language>en-ca</language>
+    <lastBuildDate>Wed, 23 Oct 2024 22:05:03 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sticky Positioning</title>
+      <link>http://localhost:1313/pages/sticky-positioning/</link>
+      <pubDate>Wed, 23 Oct 2024 22:05:03 -0400</pubDate>
+      <guid>http://localhost:1313/pages/sticky-positioning/</guid>
+      <description>&lt;p&gt;Navigation bars that follow the user as they scroll down the page have become a common pattern on web pages. It provides an easy way for users to navigate to any other part of the web site without scrolling all the way back up. And it is simple to implement as well. Just set &lt;code&gt;position: sticky&lt;/code&gt; on the containing element that you want to stay in the user&amp;rsquo;s view port.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
